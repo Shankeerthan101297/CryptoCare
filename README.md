@@ -6,6 +6,7 @@ In our project, we have developed an IoT based Cryptocurrency advising system to
 ## Node-Red Instance
 > Instance for the Dashboard
 
-Using the following link the Node-Red instance can be visualized.
+Using the following link the Node-Red instance can be visualized: https://crypto-care.mybluemix.net/
+
 
 
